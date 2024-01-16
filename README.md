@@ -28,6 +28,8 @@
     <li>JavaScript</li>
     <li>React</li>
     <li>PHP</li>
+    <li>UI/UX</li>
+    <li>Figma</li>
   </ul>
   <h2 dir="auto">
     <a id="user-content-education" class="anchor" aria-hidden="true" tabindex="-1" href="#education">
