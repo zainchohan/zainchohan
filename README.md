@@ -39,7 +39,7 @@
     </a>🎓 Education
   </h2>
   <ul dir="auto">
-    <li>Bachelor’s in Computer Science, PMAS Arid Agriculture University 2023 - Present</li>
+    <li>Bachelor’s in Computer Science, PMAS Arid Agriculture University 2012 - 2015</li>
     <li>Data Analyst, Atomcamp 2023 - 2024</li>
     <li>Data Science &amp; AI Bootcamp, Atomcamp 2023 - Present</li>
   </ul>
