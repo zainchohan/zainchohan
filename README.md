@@ -16,13 +16,13 @@
   </h2>
   <ul dir="auto">
     <li>Data Analysis using Excel and Python</li>
-    <li>Data Visualization using Power Bi, Excel, Python Libraries</li>
+    <li>Data Visualization using Power Bi, Tableau, Excel, Python Libraries</li>
     <li>Data Cleaning and Pre-Processing</li>
     <li>Machine Learning / EDA Analysis</li>
     <li>SQL</li>
     <li>Statistical Analysis</li>
     <li>Artificial Intelligence</li>
-    <li>NLP / CV / LLM</li>
+    <li>Deep Learning / Computer Vision / LLM</li>
     <li>HTML5 & CSS3</li>
     <li>SASS</li>
     <li>JavaScript</li>
