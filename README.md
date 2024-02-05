@@ -6,7 +6,7 @@
       </svg>
     </a>🚀 About Me
   </h2>
-  <p dir="auto">👋 Hey there! I'm Zain Ul Abidin, a passionate young <strong>Data Scientist | Web Designer & Developer | UI/UX Designer</strong> based in Dammam, Saudi Arabia. I love using data to tell compelling stories and creating engaging content that resonates with the audience. </p>
+  <p dir="auto">👋 Hey there! I'm Zain Ul Abidin, a passionate young <strong>Data Scientist | Web Designer & Developer</strong> based in Dammam, Saudi Arabia. I love using data to tell compelling stories and creating engaging content that resonates with the audience. </p>
   <h2 dir="auto">
     <a id="user-content-skills" class="anchor" aria-hidden="true" tabindex="-1" href="#skills">
       <svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true">
