@@ -22,7 +22,7 @@
     <li>SQL</li>
     <li>Statistical Analysis</li>
     <li>Artificial Intelligence</li>
-    <li>Deep Learning / Computer Vision / LLM</li>
+    <li>Deep Learning / Computer Vision</li>
     <li>HTML5 & CSS3</li>
     <li>SASS</li>
     <li>JavaScript</li>
